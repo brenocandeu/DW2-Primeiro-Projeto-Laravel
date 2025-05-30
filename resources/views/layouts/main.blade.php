@@ -23,7 +23,6 @@
 
 <body>
     <header>
-        <h1>Olá Eder!</h1>
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="collapse navbar-collapse" id="navbar">
                 <a href="/" class="navbar-brand">
