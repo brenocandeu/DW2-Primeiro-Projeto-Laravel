@@ -17,8 +17,8 @@
         integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
 
     {{-- CSS da aplicação --}}
-    <link rel="stylesheet" href="/css/styles.css">
-    <script src="/js/scripts.js"></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/scripts.js"></script>
 </head>
 
 <body>
@@ -26,7 +26,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="collapse navbar-collapse" id="navbar">
                 <a href="/" class="navbar-brand">
-                    <img src="/imgs/hdcevents_logo.svg" alt="HDC Events">
+                    <img src="imgs/hdcevents_logo.svg" alt="HDC Events">
                 </a>
                 <ul class="navbar-nav">
                     <li class="nav-item">
